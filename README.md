@@ -22,3 +22,13 @@ sudo ufw allow 22
 text
 5. Removed the block rule for port 23:
 sudo ufw delete deny 23
+
+
+## Screenshots
+
+*(Add your screenshots here by uploading them to the repo and linking them)*
+
+## Summary: How a Firewall Filters Traffic
+
+A firewall inspects network traffic and allows or blocks it based on rules you set, protecting your system from unauthorized access.
+
